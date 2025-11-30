@@ -1,3 +1,5 @@
+# flutter-media-production
+
 # شركة الإبداع للإنتاج الفني والتصوير
 
 تطبيق Flutter لشركة إنتاج فني يوفر خدمات التصوير والإنتاج المختلفة.
@@ -22,7 +24,7 @@
 
 1. Clone المشروع:
 ```bash
-git clone https://github.com/YOUR_USERNAME/flutter_application_1.git
+git clone https://github.com/ashrafns/flutter-media-production.git
 cd flutter_application_1
 ```
 
@@ -58,4 +60,3 @@ flutter build ios
 ## الترخيص
 
 هذا المشروع مرخص تحت رخصة MIT.
-# flutter-media-production
